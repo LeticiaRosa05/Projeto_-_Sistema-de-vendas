@@ -1,4 +1,4 @@
-# Projeto---Sistema-de-vendas
+# Projeto_-_Sistema-de-vendas
 
 Projeto desenvolvido a partir da disciplina extencionista POO em Java
 
